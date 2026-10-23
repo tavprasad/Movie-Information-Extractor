@@ -2,6 +2,9 @@
 
 An AI-powered Movie Information Extractor built using **Python, LangChain, Groq, and Streamlit**. It extracts structured movie details from a given paragraph and presents them in a clean, easy-to-read format using a Large Language Model (LLM).
 
+
+**Live Link **:  https://movie-information-extractor-tcnxf2hxizlyjwnhzlf4kq.streamlit.app/ 
+
 ## 🚀 Project Overview
 
 Finding important information about a movie from lengthy text can be time-consuming. This application uses prompt engineering and an LLM to identify relevant movie details and organize them into structured fields.
